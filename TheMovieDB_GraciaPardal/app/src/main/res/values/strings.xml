@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheMovieDB_GraciaPardal</string>
+    <string name="title_popular">Populares</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="extra_id">ID</string>
+    <string name="extra_name">NAME</string>
+    <string name="extra_edad">EDAD</string>
+
+</resources>
